@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BusApp</string>
+    <string name="title_activity_screen1">screen1</string>
+    <string name="title_activity_screen3">screen3</string>
+</resources>
